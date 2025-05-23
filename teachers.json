@@ -53,14 +53,5 @@
       "Quran Recitation",
       "Tajweed"
     ]
-  },
-  {
-    "name": "Amir",
-    "bio": "Nothing",
-    "image": "/images/placeholder-teacher.png",
-    "expertise": [
-      "Arabic"
-    ],
-    "id": 6
   }
 ]
