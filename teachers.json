@@ -1,14 +1,14 @@
 [
   {
-    "id": 1,
-    "name": "Sheikh Abdullah",
-    "image": "/images/placeholder-teacher.png",
+    "name": "Sheikh Abdullahhhhhhhhhhhhhhhhhhhhhhhhhh",
     "bio": "Sheikh Abdullah is a renowned scholar with over 15 years of experience teaching Quran and Arabic. He has studied at Al-Azhar University and has authored several books on Quranic interpretation.",
+    "image": "/images/placeholder-teacher.png",
     "expertise": [
       "Quran Tafsir",
       "Arabic Language",
       "Islamic Studies"
-    ]
+    ],
+    "id": 1
   },
   {
     "id": 2,
@@ -53,14 +53,5 @@
       "Quran Recitation",
       "Tajweed"
     ]
-  },
-  {
-    "name": "Amir Teshome",
-    "bio": "doijf",
-    "image": "/images/placeholder-teacher.png",
-    "expertise": [
-      "asdklf"
-    ],
-    "id": 6
   }
 ]
