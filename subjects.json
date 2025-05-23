@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Quran Tafsir",
+    "image": "/images/placeholder-subject.png",
+    "description": "Study the interpretation and explanation of the Holy Quran, understanding its meanings, context, and applications."
+  },
+  {
+    "id": 2,
+    "name": "Hadith Studies",
+    "image": "/images/placeholder-subject.png",
+    "description": "Learn about the sayings, actions, and approvals of Prophet Muhammad (PBUH) and their authenticity and significance."
+  },
+  {
+    "id": 3,
+    "name": "Islamic Jurisprudence",
+    "image": "/images/placeholder-subject.png",
+    "description": "Explore Islamic law and its applications in daily life, understanding the principles of fiqh and its various schools."
+  },
+  {
+    "id": 4,
+    "name": "Islamic History",
+    "image": "/images/placeholder-subject.png",
+    "description": "Discover the rich history of Islamic civilization, from the time of the Prophet to the modern era."
+  },
+  {
+    "id": 5,
+    "name": "Arabic Language",
+    "image": "/images/placeholder-subject.png",
+    "description": "Master the language of the Quran, including grammar, vocabulary, and conversation skills."
+  }
+]
