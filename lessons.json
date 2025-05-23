@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "teacher": "Sheikh Abdullah",
+    "title": "Understanding Surah Al-Fatiha",
+    "description": "A comprehensive explanation of Surah Al-Fatiha, the opening chapter of the Quran, exploring its meanings and significance in daily prayers.",
+    "cover_image": "/images/placeholder-lesson.png",
+    "subject": [
+      "Quran Tafsir",
+      "Arabic Language"
+    ],
+    "part": [
+      "https://t.me/quran_tafsir_channel1",
+      "https://t.me/quran_tafsir_channel2"
+    ]
+  },
+  {
+    "id": 2,
+    "teacher": "Imam Muhammad",
+    "title": "Authentic Hadiths on Prayer",
+    "description": "Collection and explanation of authentic hadiths related to prayer, covering its importance, methods, and spiritual dimensions.",
+    "cover_image": "/images/placeholder-lesson.png",
+    "subject": [
+      "Hadith Studies",
+      "Islamic Ethics"
+    ],
+    "part": [
+      "https://t.me/hadith_studies_channel1"
+    ]
+  },
+  {
+    "id": 3,
+    "teacher": "Dr. Aisha Ahmed",
+    "title": "Fundamentals of Islamic Jurisprudence",
+    "description": "Introduction to the principles of Islamic jurisprudence, covering the sources of Islamic law and methodologies of deriving rulings.",
+    "cover_image": "/images/placeholder-lesson.png",
+    "subject": [
+      "Islamic Jurisprudence"
+    ],
+    "part": [
+      "https://t.me/fiqh_channel1",
+      "https://t.me/fiqh_channel2"
+    ]
+  },
+  {
+    "id": 4,
+    "teacher": "Sheikh Ibrahim",
+    "title": "The Golden Age of Islamic Civilization",
+    "description": "Exploration of the contributions of Muslims to science, medicine, art, and architecture during the Islamic Golden Age.",
+    "cover_image": "/images/lesson4.png",
+    "subject": [
+      "Islamic History"
+    ],
+    "part": [
+      "https://t.me/islamic_history_channel1"
+    ]
+  },
+  {
+    "id": 5,
+    "teacher": "Ustadh Yusuf",
+    "title": "Mastering Quranic Arabic",
+    "description": "A structured course on Quranic Arabic, designed to help students understand the language of the Quran directly.",
+    "cover_image": "/images/placeholder-lesson.png",
+    "subject": [
+      "Arabic Language",
+      "Quran Tafsir"
+    ],
+    "part": [
+      "https://t.me/arabic_language_channel1",
+      "https://t.me/arabic_language_channel2"
+    ]
+  },
+  {
+    "id": 6,
+    "teacher": "Sheikh Abdullah",
+    "title": "Tafsir of Juz Amma",
+    "description": "Detailed explanation of the 30th part of the Quran, which contains many short and frequently recited surahs.",
+    "cover_image": "/images/placeholder-lesson.png",
+    "subject": [
+      "Quran Tafsir"
+    ],
+    "part": [
+      "https://t.me/quran_tafsir_channel3"
+    ]
+  },
+  {
+    "id": 7,
+    "teacher": "Imam Muhammad",
+    "title": "Ethics and Character in Islam",
+    "description": "Study of Islamic ethics and character development based on the Quran and Sunnah, with practical applications for modern life.",
+    "cover_image": "/images/placeholder-lesson.png",
+    "subject": [
+      "Islamic Ethics"
+    ],
+    "part": [
+      "https://t.me/islamic_ethics_channel1"
+    ]
+  },
+  {
+    "id": 8,
+    "teacher": "Dr. Aisha Ahmed",
+    "title": "Women's Rights in Islam",
+    "description": "Comprehensive analysis of women's rights in Islam, addressing misconceptions and highlighting the elevated status of women in Islamic teachings.",
+    "cover_image": "/images/placeholder-lesson.png",
+    "subject": [
+      "Islamic Jurisprudence",
+      "Islamic History"
+    ],
+    "part": [
+      "https://t.me/women_in_islam_channel1"
+    ]
+  }
+]
