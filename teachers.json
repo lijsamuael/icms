@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Sheikh Abdullah",
+    "image": "/images/placeholder-teacher.png",
+    "bio": "Sheikh Abdullah is a renowned scholar with over 15 years of experience teaching Quran and Arabic. He has studied at Al-Azhar University and has authored several books on Quranic interpretation.",
+    "expertise": [
+      "Quran Tafsir",
+      "Arabic Language",
+      "Islamic Studies"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Imam Muhammad",
+    "image": "/images/placeholder-teacher.png",
+    "bio": "Imam Muhammad specializes in Hadith studies and Islamic ethics. He has served as an imam in various mosques and has dedicated his life to spreading authentic knowledge of the Prophet's teachings.",
+    "expertise": [
+      "Hadith Studies",
+      "Islamic Ethics",
+      "Seerah"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dr. Aisha Ahmed",
+    "image": "/images/placeholder-teacher.png",
+    "bio": "Dr. Aisha Ahmed holds a PhD in Islamic Studies with a focus on jurisprudence. She has taught at several Islamic universities and is known for making complex fiqh concepts accessible to students.",
+    "expertise": [
+      "Islamic Jurisprudence",
+      "Islamic History",
+      "Women in Islam"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sheikh Ibrahim",
+    "image": "/images/placeholder-teacher.png",
+    "bio": "Sheikh Ibrahim is an expert in Islamic history and comparative religion. His engaging teaching style has made him popular among students seeking to understand Islam's historical context.",
+    "expertise": [
+      "Islamic History",
+      "Comparative Religion",
+      "Islamic Civilization"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Ustadh Yusuf",
+    "image": "/images/placeholder-teacher.png",
+    "bio": "Ustadh Yusuf is a certified Arabic language instructor and Quran teacher. He has developed innovative methods for non-Arabic speakers to master Quranic Arabic.",
+    "expertise": [
+      "Arabic Language",
+      "Quran Recitation",
+      "Tajweed"
+    ]
+  },
+  {
+    "name": "Amir Teshome",
+    "bio": "doijf",
+    "image": "/images/placeholder-teacher.png",
+    "expertise": [
+      "asdklf"
+    ],
+    "id": 6
+  }
+]
