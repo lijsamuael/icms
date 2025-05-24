@@ -53,5 +53,14 @@
       "Quran Recitation",
       "Tajweed"
     ]
+  },
+  {
+    "name": "Ere bak",
+    "bio": "sthhh",
+    "image": "/images/placeholder-teacher.png",
+    "expertise": [
+      "eshi, embi, ena, eneja"
+    ],
+    "id": 6
   }
 ]
